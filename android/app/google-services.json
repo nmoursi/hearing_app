@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "726465588369",
+    "project_id": "hearing-a2649",
+    "storage_bucket": "hearing-a2649.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726465588369:android:83154724459d4432d9a330",
+        "android_client_info": {
+          "package_name": "com.example.hearing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726465588369-4ivmngcl9lfv1gfso6v1uqrpqrerani7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCehyDXvknfk6J1fxRAkDqQgTXDfRm_ilM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726465588369-4ivmngcl9lfv1gfso6v1uqrpqrerani7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
